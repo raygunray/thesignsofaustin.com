@@ -3,7 +3,7 @@ layout: post
 title:  "The Hole In the Wall"
 date:   2015-08-22 15:58:38
 address: 2538 Guadalupe St
-image: assets/img/holeinthewall.png
+image: /assets/img/holeinthewall.png
 class: hole
 
 ---

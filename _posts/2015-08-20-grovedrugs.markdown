@@ -3,7 +3,7 @@ layout: post
 title:  "Grove Drugstore"
 date:   2015-08-22 15:58:38
 address: 209 E 6th St
-image: assets/img/grovedrugs.png
+image: /assets/img/grovedrugs.png
 class: grovedrugs
 
 ---
