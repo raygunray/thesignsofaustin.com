@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <style type="text/css">
+    section, body{
+      background: none;
+    }
+
+    html {
+      background: #2798a1;
+      background-image: url("/assets/img/landing.png");
+      background-size: 60%;
+      background-size: 70vmin;
+      background-position: center bottom;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+    }
+
+    h1, h2, h3{
+      font-family: "myriad-pro", sans-serif;
+      font-weight: normal;
+      color: #f2e4c7;
+    }
+
+    h1 {
+      font-size: 1.25em;
+      line-height: 1.2;
+      text-align: center;
+      text-transform: uppercase;
+      padding-top: 2%;
+    }
+
+    @media screen and (min-width: 700px){
+      html{
+        background-size: 50%;
+        background-size: 63vmin;
+      }
+    }
+
+  </style>
+
+  <body>
+    <section class="landing">{{ content }}</div>
+  </body>
+
+</html>

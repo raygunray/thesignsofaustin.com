@@ -1,0 +1,66 @@
+html, body, section {
+  padding: 0;
+  margin: 0;
+  background-color: #ebebeb;
+  font-size: 100%;
+}
+
+body{
+  font-family: "myriad-pro", sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  font-weight: normal;
+  color: #555;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h1, h2, h3{
+  font-family: "lexia", Georgia, Times, 'Times New Roman', serif;
+  font-weight: normal;
+  line-height: 1.2;
+  color: #222;
+}
+
+h1{
+  font-size: 42px;
+}
+
+h2{
+  font-size: 2.625em;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+}
+
+i.address {
+  display: block;
+  margin-bottom: 1.5em;
+}
+
+a{
+  color: #2798a1;
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+a:hover{
+  color: #999;
+}
+
+
+img {
+   margin-left: auto;
+   margin-right: auto;
+   /*width: 100%;*/
+   max-width: 100%;
+}

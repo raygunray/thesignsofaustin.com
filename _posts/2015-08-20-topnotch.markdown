@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Top Notch Hamburgers"
+date:   2015-08-22 15:58:38
+address: 209 E 6th St
+image: /assets/img/topnotch.png
+class: topnotch
+
+---
+Originally opened as Burkhart’s Motor Dining in 1964, Ray and Frances Stanish bought the restaurant in 1971 and re-opened it as Top Notch. They ran it for close to 40 years, only recently selling it in 2008. Although the fried chicken at Top Notch is hard to beat, they're probably most famous for being the setting of Richard Linklater’s 1993 film <i>Dazed and Confused</i>.

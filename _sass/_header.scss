@@ -1,0 +1,58 @@
+.header {
+  padding: 1.25em 3%;
+  background: #202020;
+  margin-bottom: 3em;
+}
+
+.header h1 {
+ color: #fff;
+ line-height: 1.5;
+ margin: 0;
+ font-size: 24px;
+ a{
+   color: #fff;
+   text-decoration: none;
+   &:hover{
+     color: #2798a1;
+   }
+ }
+}
+
+.nav{
+  margin: 1em 0 1em -1em;
+  float: left;
+}
+
+.nav a{
+  color: #fff;
+  text-decoration: none;
+  padding: 0.5em 1.25em;
+  margin: 1em 0.5em;
+  border-radius: 3px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  background: rgba(255, 255, 255, 0.05);
+  transition: background-color 0.15s ease;
+}
+
+.nav a:hover{
+  background: #2798a1;
+}
+
+header, footer{
+  overflow: hidden;
+}
+
+@media screen and (min-width: 700px) {
+  .header {
+    display: flex;
+    justify-content: space-between;
+  }
+  .nav{
+    margin: auto -1em auto 1em;
+  }
+  .nav a{
+
+    margin-left: 1em;
+  }
+}

@@ -1,0 +1,51 @@
+.container {
+  margin: 0 auto 5em;
+  width: 95%;
+}
+
+.sign {
+  background: #fff;
+  margin-bottom: 3%;
+}
+
+.sign h2{
+  margin: 0.25em 0 0 0;
+}
+
+.post-link h2{
+  transition: color 0.15s ease;
+  &:hover{
+    color: #2798a1;
+  }
+}
+
+.description {
+  max-width: 900px;
+  margin: auto 0;
+  background: #fff;
+  padding: 1.5% 5%;
+}
+
+.illo {
+  max-width: 1000px;
+}
+
+.illo img{
+  padding: 10%;
+}
+
+@media screen and (min-width: 1000px) {
+  body{
+    font-size: 100%;
+  }
+  .sign {
+    display: flex
+  }
+  .illo {
+    width: 90%;
+    max-width: 900px;
+  }
+  .description {
+    padding: 1.5% 5%;
+  }
+}

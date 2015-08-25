@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Sandy’s Hamburgers"
+date:   2015-08-22 15:58:38
+address: 603 Barton Springs Rd
+image: /assets/img/sandys.png
+class: sandys
+
+---
+A cold dip in Barton Springs Pool followed by frozen custard at Sandy’s has long been an Austin tradition. Named after their daughter, Andy and Julia Harris opened the iconic burger stand in 1946. Although the neon sign looks original, it’s actually a replica built by Lewis Signs. The original sign was hit by a car in 2006 and had to be replaced.
