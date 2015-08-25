@@ -3,7 +3,7 @@ layout: post
 title:  "Austin Motel"
 date:   2015-08-22 15:58:38
 address: 1220 S Congress Ave
-image: /assets/img/austinmotel.png
+image: assets/img/austinmotel.png
 class: austinmotel
 
 ---

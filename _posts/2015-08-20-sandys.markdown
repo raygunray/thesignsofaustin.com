@@ -3,7 +3,7 @@ layout: post
 title:  "Sandy’s Hamburgers"
 date:   2015-08-22 15:58:38
 address: 603 Barton Springs Rd
-image: /assets/img/sandys.png
+image: assets/img/sandys.png
 class: sandys
 
 ---
