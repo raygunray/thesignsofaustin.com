@@ -7,4 +7,4 @@ image: /assets/img/capitolsaddlery.png
 class: saddlery
 
 ---
-Originally built in 1878 as one of Austin’s first firehouses, Buck Steiner (of Steiner Ranch) bought the building in 1932 and turned it into Capitol Saddlery. Their boots were famously made by Charlie Dunn, known as the “Michelangelo of cowboy boots” and immortalized in a Jerry Jeff Walker song. Steiner’s grandson Bobby moved the business up Highway 183 in 2007 and the building was later turned into a residence.
+Built in 1878 to be one of Austin’s first firehouses, [Buck Steiner](https://tshaonline.org/handbook/online/articles/fstdp) bought the building in 1932 and turned it into Capitol Saddlery. Their boots were famously made by [Charlie Dunn](https://en.wikipedia.org/wiki/Charlie_Dunn), who was immortalized in a Jerry Jeff Walker song and known as the “Michelangelo of cowboy boots." Steiner’s grandson Bobby moved the business in 2007 and the building was later turned into a [residence](http://www.statesman.com/news/lifestyles/fashion-style/capitol-saddlery-first-firehouse-turns-venetian-pa/nRxHr/).
