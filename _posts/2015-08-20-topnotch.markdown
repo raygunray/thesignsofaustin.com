@@ -2,7 +2,7 @@
 layout: post
 title:  "Top Notch Hamburgers"
 date:   2015-08-22 15:58:38
-address: 209 E 6th St
+address: 7525 Burnet Rd
 image: /assets/img/topnotch.png
 class: topnotch
 
