@@ -7,4 +7,4 @@ image: /assets/img/mattselrancho.png
 class: matts
 
 ---
-The Martinez family has been serving some of Austin’s best Mexican food since 1952. Matt Martinez was a golden glove boxer that got his start by selling his wife’s tamales from a pushcart in East Austin, eventually settling into their current location in 1986. Rumor has it that Matt’s was a favorite of President Johnson, and he would send Air Force 1 to fetch their famous Chili Relleno.
+The Martinez family has been serving some of Austin’s best Mexican food since 1952. [Matt Martinez](http://austin.culturemap.com/news/restaurants-bars/07-08-12-09-28-matts-el-rancho-turns-60-all-hail-the-king-of-mexican-food/) was a golden glove boxer that got his start by selling his wife’s tamales from a pushcart in East Austin, eventually settling into their current location in 1986. Rumor has it that Matt’s was a favorite of President Johnson, and he would send Air Force 1 to fetch their famous Chili Relleno.
