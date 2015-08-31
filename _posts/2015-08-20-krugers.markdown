@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Kruger's Diamond Jewelers"
+date:   2015-08-31 17:26:38
+address: 722 Congress Ave
+image: /assets/img/krugers.png
+class: krugers
+
+---
+In the early 1900s, [Sam Kruger](https://tshaonline.org/handbook/online/articles/fkr08) began making watches in his native Ukraine. After immigrating to America in 1904, he started the Kruger Jewelry Company in Fort Worth. Along the way, he gave a job to his nephew [Morris Zale](https://tshaonline.org/handbook/online/articles/fza11), and helped him open his [own store](https://tshaonline.org/handbook/online/articles/dhz01) in Wichita Falls. Kruger settled into his downtown Austin location in 1939, which is currently run by his grandson David. 
