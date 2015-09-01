@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Capitol Saddlery"
-date:   2015-08-22 15:58:38
+date:   2015-08-22 15:00:00
 address: 1614 Lavaca St
 image: /assets/img/capitolsaddlery.png
 class: saddlery

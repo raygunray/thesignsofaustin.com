@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kruger's Diamond Jewelers"
-date:   2015-08-31 17:26:38
+date:   2015-08-22 15:20:00
 address: 722 Congress Ave
 image: /assets/img/krugers.png
 class: krugers

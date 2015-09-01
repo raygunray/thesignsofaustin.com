@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Quality Seafood"
-date:   2015-08-27 15:31:38
+date:   2015-08-22 15:10:00
 address: 5621 Airport Blvd
 image: /assets/img/qualityseafood.png
 class: qualityseafood

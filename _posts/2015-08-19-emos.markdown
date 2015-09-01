@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Emo's"
-date:   2015-08-31 20:11:38
+date:   2015-08-22 15:15:00
 address: 603 Red River St
 image: /assets/img/emos.png
 class: emos
