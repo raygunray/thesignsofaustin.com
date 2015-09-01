@@ -1,5 +1,5 @@
 .header {
-  padding: 1.25em 3%;
+  padding: 0.75em 3%;
   background: #202020;
   margin-bottom: 3em;
 }
@@ -19,7 +19,7 @@
 }
 
 .nav{
-  margin: 1em 0 1em -1em;
+  margin: 1em 0 1em -0.5em;
   float: left;
 }
 
@@ -39,14 +39,22 @@
   background: #2798a1;
 }
 
-header, footer{
+header, footer, .site-footer{
   overflow: hidden;
+}
+
+.site-footer{
+  background: #fff;
+  text-align: center;
+  padding: 2.5em 0;
 }
 
 @media screen and (min-width: 700px) {
   .header {
     display: flex;
+    display: -webkit-flex;
     justify-content: space-between;
+    -webkit-justify-content: space-between;
   }
   .nav{
     margin: auto -1em auto 1em;

@@ -10,5 +10,10 @@ url: "http://thesignsofaustin.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
+
+
 # Build settings
 markdown: kramdown
+
+paginate: 2
+port:    4000
