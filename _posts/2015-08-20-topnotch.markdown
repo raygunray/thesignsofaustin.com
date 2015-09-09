@@ -7,4 +7,4 @@ image: /assets/img/topnotch.png
 class: topnotch
 
 ---
-Originally opened as Burkhart’s Motor Dining in 1964, Ray and Frances Stanish bought the restaurant in 1971 and re-opened it as Top Notch. They ran it for close to 40 years, only recently selling it in 2008. Although the fried chicken at Top Notch is hard to beat, they're probably most famous for being the setting of Richard Linklater’s 1993 film <i>[Dazed and Confused](https://www.youtube.com/watch?v=vzEG81RV0uk)</i>.
+Originally opened as Burkhart’s Motor Dining in 1964, Ray and Frances Stanish bought the restaurant in 1971 and re-opened it as Top Notch. They ran it for close to 40 years, only recently [selling it](http://www.austin360.com/news/lifestyles/food-cooking/for-new-owners-of-top-notch-change-isnt-on-the-m-1/nRshz/) in 2008. Although the fried chicken at Top Notch is hard to beat, it's probably most famous for being the setting of Richard Linklater’s 1993 film <i>[Dazed and Confused](https://www.youtube.com/watch?v=vzEG81RV0uk)</i>.

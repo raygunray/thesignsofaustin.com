@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "EZ's Brick Over & Grill"
+title:  "EZ's Brick Oven & Grill"
 date:   2015-09-02 09:30:00
 address: 3918 N Lamar Blvd
 image: /assets/img/ezs.png
 class: ezs
 
 ---
-EZ’s is a San Antonio-based restaurant chain that was founded in 1989. In another life their North Lamar location was home to [2Js](http://texashistory.unt.edu/ark:/67531/metapth19417/m1/1/sizes/l/), a popular spot to grab 19 cent hamburgers before heading out to the [Chief Drive-In](http://www.northfieldna.org/ChiefDriveInAD.jpg) at the corner of Koenig and Lamar. It was also a frequent hangout for the students of [Dillon High School](https://www.youtube.com/watch?v=cQ-iijn0HpU). The EZ’s sign looks like it was from the 50s because it was adapted from the original [2Js](http://texashistory.unt.edu/ark:/67531/metapth19038/m1/1/sizes/l/) sign by [Ion Art](http://ionart.com/).
+EZ’s is a San Antonio-based restaurant chain that was founded in 1989. In another life their North Lamar location was home to [2Js](http://texashistory.unt.edu/ark:/67531/metapth19417/m1/1/sizes/l/), a popular spot to grab 19 cent hamburgers before heading out to the [Chief Drive-In](http://www.northfieldna.org/ChiefDriveInAD.jpg) at the corner of Koenig and Lamar. It was also a frequent hangout for the students of [Dillon High School](https://www.youtube.com/watch?v=cQ-iijn0HpU). The EZ’s sign looks like it is from the 50s because it was adapted from the original [2Js](http://texashistory.unt.edu/ark:/67531/metapth19038/m1/1/sizes/l/) sign by [Ion Art](http://ionart.com/).
