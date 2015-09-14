@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://thesignsofaustin.com" # the base hostname & protocol for your site
 twitter_username: raygunray
 github_username:  raygunray
-
+permalink: /:title/
 
 
 # Build settings
