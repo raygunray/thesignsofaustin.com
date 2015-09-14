@@ -2,7 +2,7 @@
 layout: post
 title:  "About The Signs"
 date:   2015-08-22 12:59:38
-address: 209 E 6th St
+address: 
 image: /assets/img/coversign.png
 class: cover
 permalink: /about/

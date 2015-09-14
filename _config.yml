@@ -15,5 +15,5 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 
-paginate: 2
+paginate: 10
 port:    4000
