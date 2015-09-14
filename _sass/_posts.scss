@@ -48,12 +48,14 @@
     display: -webkit-flex;
     display: flex;
     margin-bottom: 3%;
+
   }
   .illo {
-    width: 90%;
-    max-width: 900px;
+    flex: 2 1000px;
+
   }
   .description {
     padding: 1.5% 5%;
+    flex: 1 750px;
   }
 }
