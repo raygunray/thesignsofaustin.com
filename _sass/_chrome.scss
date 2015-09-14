@@ -53,8 +53,10 @@ header, footer, .site-footer{
   .header {
     display: flex;
     display: -webkit-flex;
+    display: -ms-flexbox;
     justify-content: space-between;
     -webkit-justify-content: space-between;
+    -ms-justify-content: space-between;
   }
   .nav{
     margin: auto -1em auto 1em;
