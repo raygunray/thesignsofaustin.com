@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Peter Pan Mini-Golf"
+date:   2015-09-24 12:15:00
+address: 1207 Barton Springs Rd
+image: /assets/img/peterpan.png
+class: peter pan
+
+---
+Clifford Dismukes started Varsity Links in 1948 at the corner of Barton Springs and Lamar. After Clifford passed away, his brother Glenn renamed it Peter Pan Mini Golf. With the help of his son, Mike, Glenn introduced obstacles such as a [giant pirate](https://www.flickr.com/photos/joemoconnell/5700373089/), a [singing spider](http://austinitetips.com/wp-content/uploads/2014/07/peterpan10.jpg) coming out of a taco, and a [T-Rex](http://annwoodallstudios.com/wp-content/uploads/2015/04/Peter-Pan-T-Rex_2_sharpened_l.jpg). Recently local artist [Cheryl Latimer](http://www.austin360.com/news/lifestyles/recreation/iconic-mini-golf-course-gets-a-face-lift-2/nRhGL/) took it upon herself to return the statues to their former glory. Peter Pan still only costs 6 bucks to play, and it’s BYOB.
