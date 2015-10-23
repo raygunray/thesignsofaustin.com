@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Don-Mar Motor Court"
+date:   2015-10-23 10:15:00
+address: 2109 S Congress Ave
+image: /assets/img/donmar.png
+class: donmar
+
+---
+Sometimes change is good. The [Don-Mar Motor Court](http://www.motortexas.com/cities.aspx/austin/historic-buildings/130/don-mar-motor-court/) was built in 1935 by Don and Mary Roberts but had seen much better days by the time it was leveled in 2008. At one time there were plans to turn the property into the [Don-Mar Condominiums](http://www.downtownaustincondos.com/austin-downtown-listings/don-mar-condos-austin-tx.php) and incorporate the old sign, but those plans never materialized. The site is now home to [Ben’s Workshop](https://www.google.com/maps/uv?hl=en&pb=!1s0x8644b5150427dbdd:0xbf834014d35fa420!2m5!2m2!1i80!2i80!3m1!2i100!3m1!7e1!4shttps://picasaweb.google.com/lh/sredir?uname%3D117822739728059417522%26id%3D6111438955604455922%26target%3DPHOTO!5sben%27s%27+workshop+austin+-+Google+Search&sa=X&ved=0CIIBEKIqMApqFQoTCIX3neny2MgCFQ_EYwodJ2wHUA), an auto repair shop that has been in Austin since 1979. The old Don-Mar sign was [purchased by Don Lougheed](http://www.mystatesman.com/news/news/opinion/herman-new-home-for-an-old-icon/nWhMF/) in 2013 and is on display at [his RV dealership](http://www.crestviewrv.com/) in Buda.
