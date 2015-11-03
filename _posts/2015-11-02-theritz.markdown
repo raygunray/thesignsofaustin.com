@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Alamo Drafthouse at the Ritz"
+date:   2015-11-02 9:30:00
+address: 320 E 6th St
+image: /assets/img/ritz.png
+class: ritz
+
+---
+The Ritz has a long and colorful history that starts with J.J. Hegman in [1929](https://www.flickr.com/photos/originalalamo/640277446/in/album-72157600024850145/). He built the [theater](https://www.flickr.com/photos/originalalamo/432856676/in/album-72157600024850145/) to [screen talkies](https://www.flickr.com/photos/originalalamo/432858929/in/album-72157600024850145/) and ran it with his son until they had to close in 1964 due to the popularity of television.  After a few years showing adult films, it was re-opened in 1974 by [Jim Franklin](https://www.google.com/search?q=jim+franklin+ritz+austin&espv=2&biw=1781&bih=1157&source=lnms&tbm=isch&sa=X&ved=0CAgQ_AUoA2oVChMIuIaarqrzyAIVRyYmCh1MhwNh#tbm=isch&q=jim+franklin+posters) as an extension of the Armadillo World Headquarters. In the 80s it was a notorious [punk rock club](https://www.flickr.com/photos/originalalamo/2383998404/in/album-72157600024850145/) and the [temporary home](https://cmgstatesmanaustinfound.files.wordpress.com/2014/10/img026.jpg) of Esther’s Follies. In [2007](https://drafthouse.com/austin/news/its-official-alamo-ritz-grand-opening-nov.-1) it was restored to its original glory as the new home of the downtown Alamo Drafthouse.
