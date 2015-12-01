@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Chuy's"
+date:   2015-12-01 9:30:00
+address: 1728 Barton Springs Rd
+image: /assets/img/chuys.png
+class: chuys
+
+---
+In 1982 Mike Young and John Zapp opened the first Chuy’s restaurant in the former home of [Shady Grove BBQ](http://www.austinchronicle.com/food/1998-11-20/520633/). They gave the building a more [eclectic feel](https://en.wikipedia.org/wiki/Chuy%27s#/media/File:ChuysAustin-Jun2010.JPG) that included an [Elvis Shrine](http://www.bizjournals.com/austin/blog/abje_columns/2012/07/the-story-behind-chuys-elvis-shrine.html), hubcaps hanging from the ceiling, and a salsa bar in the trunk of a cadillac. After their success with Chuy’s, [Zapp and Young](http://www.austinchronicle.com/daily/food/2012-11-02/mike-and-charlies-memories/) added [Shady Grove](http://theshadygrove.com/) and Romeo’s to Barton Springs Road, turning it into “restaurant row.” Chuy’s went public in 2012, trying to spread their unique Austin style throughout the country with 51 locations across the United States.
