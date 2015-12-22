@@ -14,5 +14,5 @@ permalink: /:title/
 markdown: kramdown
 
 gems: [jekyll-paginate]
-paginate: 10
+paginate: 15
 port:    4000
