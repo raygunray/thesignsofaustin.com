@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Curra's Grill"
+date:   2016-01-05 10:00:00
+address: 614 E Oltorf St
+image: /assets/img/curras.png
+class: curras
+
+---
+The East Oltorf location of Curra’s Grill, a converted convenience store, is rich in local Tex-Mex history. The building was the [former home](http://www.guerostacobar.com/about.php) of Guero’s Taco Bar before they moved into their South Congress location. Curra’s interior Mexican food recipes and avocado margaritas kept the new space popular when the Garcia family took over in 1995. They tried opening a few other locations, most notably in [a strip mall on Parmer Lane](http://www.austinchronicle.com/food/2007-06-15/492049/) and in the current Frisco’s [on Burnet Road](http://www.yelp.com/biz/curras-grill-austin-2), but were never able to match the [funky charm](http://d36rv60zdkz1hi.cloudfront.net/supper/uploads/2015/03/Curras-Grill-in-austin-for-supper_0003_IMG_1543-890x514.jpg) of the original location.
