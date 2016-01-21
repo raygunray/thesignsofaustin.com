@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Violet Crown"
+title:  "Violet Crown Shopping Center"
 date:   2016-01-21 10:30:00
 address: 6610 N Lamar Blvd
 image: /assets/img/violetcrown.png
