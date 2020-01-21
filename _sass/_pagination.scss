@@ -1,47 +1,23 @@
 .pagination{
 	margin: 3em auto;
 	display: block;
-	text-align: center;
 	overflow: hidden;
 
-	span{
-		display: none;
+	ul {
+		margin-right: -2em;
+	}
+
+	li {
+		font-size: 1.125em;
+		margin-right: 2em;
 	}
 
 	a{
-	  color: #555;
-	  text-decoration: none;
-	  padding: 0.5em 1.5em;
-	  border-radius: 3px;
-	  -moz-border-radius: 3px;
-	  -webkit-border-radius: 3px;
-	  transition: background-color 0.15s ease;
-		background: #cccccc;
-		display: inline-block;
-		float: left;
-		width: 49%;
-		text-align: center;
-		&+a{
-			margin-left: 2%;
-		}
+  	border-bottom: 1px solid;
 	}
 
 	a:hover{
-	  background: #2798a1;
-		color: #fff;
-	}
-
-	@media screen and (min-width: 700px) {
-		overflow: visible;
-		a{
-			display: inline;
-			margin-bottom: 0;
-			width: auto;
-			float: none;
-		}
-		a+a{
-			margin-left: 0.75em;
-		}
+	  color: #999;
 	}
 
 }

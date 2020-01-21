@@ -4,5 +4,5 @@ layout: default
 
   <article class="post sign {{ page.class }}">
     <div class="illo"><img src="{{ page.image | prepend: site.baseurl}}"/></div>
-    <div class="description"><h2 class="post-title">{{ page.title }}</h2><i>{{ page.address }}</i>{{ content }}</div>
+    <div class="description"><div class="block"><h2 class="post-title">{{ page.title }}</h2><i>{{ page.address }}</i>{{ content }}<div class="post-date">Posted on {{ page.date | date: '%B %d, %Y' }}</div></div></div>
   </article>

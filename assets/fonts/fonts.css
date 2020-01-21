@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'lydiacondensed-bold';
+    src: url('/assets/fonts/lydiacondensed-bold.eot');
+    src: url('/assets/fonts/lydiacondensed-bold.eot?#iefix') format('embedded-opentype'),
+         url('/assets/fonts/lydiacondensed-bold.woff2') format('woff2'),
+         url('/assets/fonts/lydiacondensed-bold.woff') format('woff'),
+         url('/assets/fonts/lydiacondensed-bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'apercu-regular';
+    src: url('apercu-regular.eot');
+    src: url('apercu-regular.eot?#iefix') format('embedded-opentype'),
+         url('apercu-regular.woff2') format('woff2'),
+         url('apercu-regular.woff') format('woff'),
+         url('apercu-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

@@ -1,42 +1,43 @@
 .header {
-  padding: 0.75em 3%;
+  padding: 1.25em 3%;
   background: #202020;
-  margin-bottom: 3em;
+  margin-bottom: 2em;
+  @media screen and (min-width: 1000px) {
+  margin-bottom: 4em;
+  }
 }
 
 .header h1 {
  color: #fff;
- line-height: 1.5;
  margin: 0;
- font-size: 24px;
+ font-size: 2.25em;
+ line-height: 1.5;
+ text-transform: uppercase;
  a{
    color: #fff;
    text-decoration: none;
    &:hover{
-     color: #2798a1;
+     text-decoration: underline;
    }
  }
 }
 
 .nav{
-  margin: 1em 0 1em -0.5em;
+  margin: .5em 0;
   float: left;
+  font-size: 1.125em;
 }
 
 .nav a{
   color: #fff;
-  text-decoration: none;
-  padding: 0.5em 1.25em;
-  margin: 1em 0.5em;
-  border-radius: 3px;
-  -moz-border-radius: 3px;
-  -webkit-border-radius: 3px;
-  background: rgba(255, 255, 255, 0.05);
-  transition: background-color 0.15s ease;
 }
 
 .nav a:hover{
-  background: #2798a1;
+  border-bottom: 1px solid;
+}
+
+.nav li{
+  margin-right: 1.5em;
 }
 
 header, footer, .site-footer{
@@ -45,8 +46,11 @@ header, footer, .site-footer{
 
 .site-footer{
   background: #fff;
-  text-align: center;
+  // text-align: center;
   padding: 2.5em 0;
+  p {
+    font-size: 1em;
+  }
 }
 
 @media screen and (min-width: 700px) {
@@ -59,10 +63,13 @@ header, footer, .site-footer{
     -ms-justify-content: space-between;
   }
   .nav{
-    margin: auto -1em auto 1em;
+    margin: auto -2.5em auto 1em;
   }
   .nav a{
-
     margin-left: 1em;
+  }
+
+  .nav li{
+    margin-right: 2em;
   }
 }

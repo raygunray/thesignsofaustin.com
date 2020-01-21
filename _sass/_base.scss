@@ -1,16 +1,14 @@
 html, body, section {
   padding: 0;
   margin: 0;
-  background-color: #ebebeb;
   font-size: 100%;
 }
 
 body{
-  font-family: "myriad-pro", sans-serif;
+  font-family: "apercu-regular", sans-serif;
   font-size: 16px;
   line-height: 1.6;
   font-weight: normal;
-  color: #555;
 }
 
 * {
@@ -18,10 +16,10 @@ body{
 }
 
 h1, h2, h3{
-  font-family: "lexia", Georgia, Times, 'Times New Roman', serif;
+  font-family: "lydiacondensed-bold", Helvetica Neue, Helvetica, Arial, sans-serif;
   font-weight: normal;
   line-height: 1.2;
-  color: #222;
+  color: #000;
 }
 
 h1{
@@ -29,8 +27,22 @@ h1{
 }
 
 h2{
-  font-size: 2.625em;
+  font-size: 4.5em;
+  line-height: 1em;
+
 }
+
+p{
+  font-size: 1.125em;
+  line-height: 2em;
+  color: #000;
+}
+
+p a{
+  color: #000;
+  border-bottom: 1px solid;
+}
+
 
 ul {
   list-style-type: none;
@@ -48,7 +60,7 @@ i.address {
 }
 
 a{
-  color: #2798a1;
+  color: #000;
   text-decoration: none;
   transition: color 0.15s ease;
 }
@@ -61,6 +73,5 @@ a:hover{
 img {
    margin-left: auto;
    margin-right: auto;
-   /*width: 100%;*/
    max-width: 100%;
 }

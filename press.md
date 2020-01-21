@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Press"
+title:  "Press &amp; Interviews"
 date:   2015-12-21 4:00:00
 address:
 image: /assets/img/coversign.png
