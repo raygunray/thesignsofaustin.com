@@ -13,6 +13,7 @@ permalink: /:title/
 # Build settings
 markdown: kramdown
 
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 paginate: 15
+paginate_path: /page:num/
 port:    4000
