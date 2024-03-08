@@ -3,6 +3,7 @@ layout: post
 title:  "Austin Public Library"
 date:   2015-12-17 10:00:00
 address: 2200 Hancock Dr
+tags: [ Burnet ]
 image: /assets/img/austinpubliclibrary.png
 class: austinpubliclibrary
 

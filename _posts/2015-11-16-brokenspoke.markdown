@@ -3,6 +3,7 @@ layout: post
 title:  "Broken Spoke"
 date:   2015-11-16 10:30:00
 address: 3201 S Lamar Blvd
+tags: [ South Lamar ]
 image: /assets/img/brokenspoke.png
 class: brokenspoke
 

@@ -3,6 +3,7 @@ layout: post
 title:  "Chuy's"
 date:   2015-12-01 9:30:00
 address: 1728 Barton Springs Rd
+tags: [ Barton Springs ]
 image: /assets/img/chuys.png
 class: chuys
 

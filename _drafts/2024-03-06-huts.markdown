@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Hut's Hamburgers"
+date:   2024-03-06 10:30:00
+address: 807 W 6th St
+tags: [ 6th ]
+image: /assets/img/huts.png
+class: huts
+
+---
+There are two histories to tell—the story of the building and the story of Hut’s. Both involve hamburgers. The Joseph family owns the building at 807 W 6th, the same family that ran [Favorite Liquor](/favoriteliquor/) (another Sign of Austin and now Favorite Pizza). In 1939, Sammie Joseph opened a drive-thru burger in the Hut’s building called [Sammie’s](https://www.statesman.com/gcdn/authoring/2019/06/21/NA36/ghows-TX-8bc7d511-cca1-2b96-e053-0100007f46d3-a4ae2df0.jpeg?width=1320&height=1060&fit=crop&format=pjpg&auto=webp), which later became Eli’s Lounge and the Picante Restaurant. The original Hut’s Hamburgers opened in 1939 on South Congress until Homer “Hut” Hutson bought the lease from Joseph in 1969. [Kim and Mike "Hutch" Hutchinson](https://austin.eater.com/2015/4/14/8410883/mike-hutchinson-hutshamburgers-austin-burger-week-lifers) took over Hut’s in 1981 and ran it for 38 years before serving their last burger on October 20, 2019. The only remaining Hut’s [location](https://www.tripadvisor.com/Restaurant_Review-g30196-d18995299-Reviews-Hut_s_Hamburgers-Austin_Texas.html) is at Austin-Bergstrom International Airport.

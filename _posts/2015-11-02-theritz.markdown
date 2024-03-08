@@ -3,6 +3,7 @@ layout: post
 title:  "Alamo Drafthouse at the Ritz"
 date:   2015-11-02 9:30:00
 address: 320 E 6th St
+tags: [ 6th ]
 image: /assets/img/ritz.png
 class: ritz
 

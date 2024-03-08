@@ -3,6 +3,7 @@ layout: post
 title:  "Matt's Famous El Rancho"
 date:   2015-08-22 15:58:38
 address: 2613 S Lamar Blvd
+tags: [ South Lamar ]
 image: /assets/img/mattselrancho.png
 class: matts
 

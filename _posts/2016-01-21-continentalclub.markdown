@@ -3,6 +3,7 @@ layout: post
 title:  "The Continental Club"
 date:   2016-01-21 10:00:00
 address: 1315 S Congress Ave
+tags: [ South Congress ]
 image: /assets/img/continentalclub.png
 class: continentalclub
 

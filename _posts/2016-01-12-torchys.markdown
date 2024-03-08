@@ -3,8 +3,9 @@ layout: post
 title:  "Torchy's Tacos"
 date:   2016-01-12 10:00:00
 address: 2809 S 1st St
+tags: [ South 1st ]
 image: /assets/img/torchys.png
 class: torchys
 
 ---
-[Michael Rypka](http://www.austinchronicle.com/food/2014-03-28/chain-gangs/) opened the first Torchy’s [food trailer](http://img2.10bestmedia.com/Images/Photos/100572/torchys-tacos-torchys-jt_54_990x660_201404212052.jpg) in 2006 on South First Street. He went on to create the South Austin Trailer Park & Eatery and was one of Austin’s early food truck pioneers along with Hey Cupcake! and Flip Happy Crepes. Rypka learned the ropes of the restaurant business while working for Mike Young and John Zapp as the corporate chef for Comida Deluxe, the parent company for [Chuy’s](http://thesignsofaustin.com/chuys/) and was the former executive chef for the Enron Corporation. Now with over 30 stores in Texas and Colorado, Torchy’s is opening their [flagship store](http://torchystacos.com/location/south-congress/) in the [old Fran’s Hamburgers location](http://torchystacos.com/news/frans/) on South Congress. 
+[Michael Rypka](http://www.austinchronicle.com/food/2014-03-28/chain-gangs/) opened the first Torchy’s [food trailer](http://img2.10bestmedia.com/Images/Photos/100572/torchys-tacos-torchys-jt_54_990x660_201404212052.jpg) in 2006 on South First Street. He went on to create the South Austin Trailer Park & Eatery and was one of Austin’s early food truck pioneers along with Hey Cupcake! and Flip Happy Crepes. Rypka learned the ropes of the restaurant business while working for Mike Young and John Zapp as the corporate chef for Comida Deluxe, the parent company for [Chuy’s](http://thesignsofaustin.com/chuys/) and was the former executive chef for the Enron Corporation. Now with over 30 stores in Texas and Colorado, Torchy’s is opening their [flagship store](http://torchystacos.com/location/south-congress/) in the [old Fran’s Hamburgers location](http://torchystacos.com/news/frans/) on South Congress.

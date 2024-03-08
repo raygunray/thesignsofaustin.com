@@ -3,6 +3,7 @@ layout: post
 title:  "Peter Pan Mini-Golf"
 date:   2015-09-24 12:15:00
 address: 1207 Barton Springs Rd
+tags: [ Barton Springs ]
 image: /assets/img/peterpan.png
 class: peterpan
 

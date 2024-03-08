@@ -3,6 +3,7 @@ layout: post
 title:  "Club de Ville"
 date:   2015-10-23 10:00:00
 address: 900 Red River St
+tags: [ Red River ]
 image: /assets/img/clubdeville.png
 class: clubdeville
 

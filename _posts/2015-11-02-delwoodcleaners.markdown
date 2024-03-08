@@ -3,6 +3,7 @@ layout: post
 title:  "Delwood Cleaners & Laundry"
 date:   2015-11-02 9:15:00
 address: 1406 E 38th 1/2 St
+tags: [ East Side ]
 image: /assets/img/delwoodcleaners.png
 class: delwoodcleaners
 

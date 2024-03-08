@@ -3,6 +3,7 @@ layout: post
 title:  "East Poultry Company"
 date:   2015-12-01 9:00:00
 address: 2615 E 6th St
+tags: [ East Side ]
 image: /assets/img/eastpoultry.png
 class: eastpoultry
 

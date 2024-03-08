@@ -3,6 +3,7 @@ layout: post
 title:  "Top Notch Hamburgers"
 date:   2015-08-22 15:58:38
 address: 7525 Burnet Rd
+tags: [ Burnet ]
 image: /assets/img/topnotch.png
 class: topnotch
 

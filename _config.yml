@@ -13,7 +13,12 @@ permalink: /:title/
 # Build settings
 markdown: kramdown
 
-plugins: [jekyll-paginate]
+plugins:
+  - jekyll-paginate
+  - jekyll/tagging
 paginate: 15
 paginate_path: /page:num/
+tag_page_layout: tag_page
+tag_page_dir: tag
+tag_permalink_style: pretty
 port:    4000

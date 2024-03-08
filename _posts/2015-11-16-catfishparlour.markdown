@@ -3,6 +3,7 @@ layout: post
 title:  "Catfish Parlour"
 date:   2015-11-16 10:15:00
 address: 11910 Research Blvd
+tags: [ Misc ]
 image: /assets/img/catfishparlour.png
 class: catfishparlour
 

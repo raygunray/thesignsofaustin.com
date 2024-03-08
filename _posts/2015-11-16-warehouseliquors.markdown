@@ -3,6 +3,7 @@ layout: post
 title:  "Warehouse Liquors"
 date:   2015-11-16 10:00:00
 address: 2424 S 1st St
+tags: [ South 1st ]
 image: /assets/img/warehouseliquors.png
 class: warehouseliquors
 

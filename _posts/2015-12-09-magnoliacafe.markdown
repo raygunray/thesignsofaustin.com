@@ -3,6 +3,7 @@ layout: post
 title:  "Magnolia Cafe"
 date:   2015-12-09 9:00:00
 address: 1920 S Congress Ave
+tags: [ South Congress ]
 image: /assets/img/magnoliacafe.png
 class: magnoliacafe
 

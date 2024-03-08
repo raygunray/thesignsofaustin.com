@@ -3,6 +3,7 @@ layout: post
 title:  "Hill-Berts Burgers"
 date:   2015-09-02 11:45:00
 address: 5340 Cameron Rd
+tags: [ East Side ]
 image: /assets/img/hillberts.png
 class: hillberts
 

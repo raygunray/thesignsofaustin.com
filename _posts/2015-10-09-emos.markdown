@@ -3,8 +3,9 @@ layout: post
 title:  "Emo's"
 date:   2015-08-22 15:15:00
 address: 603 Red River St
+tags: [ Red River ]
 image: /assets/img/emos.png
 class: emos
 
 ---
-One of Austin’s most beloved music venues actually got its start in Houston. The second location of Eric “Emo” Hartman’s club opened up in a former country & western bar on Red River St in 1992. The club mysteriously [shut down](http://pitchfork.com/news/44160-emos-austin-closing/) in 2011 and was [moved](http://www.austinchronicle.com/music/2013-02-15/music-news-the-pros-and-cons-of-hitchhiking/) to a location on Riverside Drive that was the former home of the influential [Back Room](http://www.austinchronicle.com/music/2006-07-28/390520/). The Houston location has been closed down since 2001. 
+One of Austin’s most beloved music venues actually got its start in Houston. The second location of Eric “Emo” Hartman’s club opened up in a former country & western bar on Red River St in 1992. The club mysteriously [shut down](http://pitchfork.com/news/44160-emos-austin-closing/) in 2011 and was [moved](http://www.austinchronicle.com/music/2013-02-15/music-news-the-pros-and-cons-of-hitchhiking/) to a location on Riverside Drive that was the former home of the influential [Back Room](http://www.austinchronicle.com/music/2006-07-28/390520/). The Houston location has been closed down since 2001.

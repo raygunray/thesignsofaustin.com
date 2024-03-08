@@ -3,6 +3,7 @@ layout: post
 title:  "EZ's Brick Oven & Grill"
 date:   2015-09-02 09:30:00
 address: 3918 N Lamar Blvd
+tags: [ North Lamar ]
 image: /assets/img/ezs.png
 class: ezs
 

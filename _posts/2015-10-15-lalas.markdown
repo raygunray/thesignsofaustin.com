@@ -3,8 +3,9 @@ layout: post
 title:  "Lala's Little Nugget"
 date:   2015-10-15 10:00:00
 address: 2207 Justin Ln
+tags: [ Burnet ]
 image: /assets/img/lalas.png
 class: lalas
 
 ---
-It’s Christmas year-round at Lala’s. Opened in a neighborhood strip mall in 1972, Frances Lala kept her [Christmas decorations](http://www.austinchronicle.com/daily/food/2012-12-19/lalas-christmas-bar/) up because she felt that the bar was too bare without them. At the age of 83, [Lala](http://www.edibleaustin.com/images/stories/beverage2014/lalas2.jpg) can still be found behind the bar making her famous Bloody Marys, and their jukebox is one of the best in town. The bar was temporarily shut down in August of 2015 but was quickly [re-opened](http://austin.eater.com/2015/9/8/9261473/lalas-austin-dive-bar-closed) by the owners of the Mean Eyed Cat and Lavaca Street Bar. 
+It’s Christmas year-round at Lala’s. Opened in a neighborhood strip mall in 1972, Frances Lala kept her [Christmas decorations](http://www.austinchronicle.com/daily/food/2012-12-19/lalas-christmas-bar/) up because she felt that the bar was too bare without them. At the age of 83, [Lala](http://www.edibleaustin.com/images/stories/beverage2014/lalas2.jpg) can still be found behind the bar making her famous Bloody Marys, and their jukebox is one of the best in town. The bar was temporarily shut down in August of 2015 but was quickly [re-opened](http://austin.eater.com/2015/9/8/9261473/lalas-austin-dive-bar-closed) by the owners of the Mean Eyed Cat and Lavaca Street Bar.

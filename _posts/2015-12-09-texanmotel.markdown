@@ -3,6 +3,7 @@ layout: post
 title:  "Texan Motel"
 date:   2015-12-09 10:00:00
 address: 6702 N Lamar Blvd
+tags: [ North Lamar ]
 image: /assets/img/texanmotel.png
 class: texanmotel
 

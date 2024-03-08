@@ -3,8 +3,9 @@ layout: post
 title:  "Katz's Deli & Bar"
 date:   2015-10-09 12:45:00
 address: 618 W 6th St
+tags: [ 6th ]
 image: /assets/img/katz.png
 class: katz
 
 ---
-Katz's does unfortunately close. Opened in 1979 by [Marc Katz](http://www.mystatesman.com/news/news/could-former-24-hour-deli-owner-be-returning-to-au/nfJLW/), this authentic New York deli served drunken downtowners for nearly 31 years before [shutting down](http://www.statesman.com/news/business/katzs-deli-to-close-after-31-years-1/nRT73/) in 2011. Mr. Katz was also a bit of a local celebrity. Oftentimes you’d find his [yellow Cadillac](https://www.flickr.com/photos/straight-nochaser/5295287289/) DeVille convertible parked in front of the restaurant, and he famously [ran for mayor](http://www.theaustinbulldog.org/index.php?option=com_content&view=article&id=19:the-men-who-would-be-mayor) in 2003. Katz’s son, Barry, still runs a location of the deli [in Houston](http://ilovekatzs.com/). The old Austin location has since been home to several generic clubs. 
+Katz's does unfortunately close. Opened in 1979 by [Marc Katz](http://www.mystatesman.com/news/news/could-former-24-hour-deli-owner-be-returning-to-au/nfJLW/), this authentic New York deli served drunken downtowners for nearly 31 years before [shutting down](http://www.statesman.com/news/business/katzs-deli-to-close-after-31-years-1/nRT73/) in 2011. Mr. Katz was also a bit of a local celebrity. Oftentimes you’d find his [yellow Cadillac](https://www.flickr.com/photos/straight-nochaser/5295287289/) DeVille convertible parked in front of the restaurant, and he famously [ran for mayor](http://www.theaustinbulldog.org/index.php?option=com_content&view=article&id=19:the-men-who-would-be-mayor) in 2003. Katz’s son, Barry, still runs a location of the deli [in Houston](http://ilovekatzs.com/). The old Austin location has since been home to several generic clubs.
