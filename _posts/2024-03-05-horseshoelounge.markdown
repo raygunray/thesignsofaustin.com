@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Horseshoe Lounge"
-date:   2024-03-05 10:30:00
+date:   2024-03-08 10:30:00
 address: 2034 S Lamar Blvd
 tags: [ South Lamar ]
 image: /assets/img/horseshoelounge.png
