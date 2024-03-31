@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Güero's Taco Bar"
+date:   2024-03-31 10:30:00
+address: 1412 S Congress Ave
+tags: [ South Congress ]
+image: /assets/img/gueros.png
+class: gueros
+
+---
+A South Congress staple, Güero's originally opened on E. Oltorf in 1986, occupying the current [Curra's Grill](/curras/) building. Cathy and Rob Lippincott moved Güero's to its current location in 1993. Their new spot remains one of the oldest buildings in South Austin, which operated as [Central Feed and Seed](https://www.instagram.com/guerostacobar/p/CqbEG5cpxI8/) since the 1920s. When the Lippincotts moved, South Congress had become run-down, and Güero's became a big part of the area's revitalization. Rob Lippincott passed away in 2022, and his daughters, Lyle and Bette, [continue to run the family-owned business](https://atxwoman.com/gueros/). A boutique hotel is [under construction](https://www.statesman.com/story/business/2023/09/20/frame-soco-hotel-austin-modular-project-building-behind-gueros-taco-bar-south-congress-avenue/70846046007/) on land owned by the family behind the restaurant.
